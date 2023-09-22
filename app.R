@@ -1,4 +1,7 @@
-
+###############################
+# Author: Logan Johnson
+# Last Updated: 2023-09-22
+###############################
 library(tidyverse)
 library(shiny)
 library(NGLVieweR)
